@@ -1,55 +1,55 @@
 
 var friendlist = [
     {
-        name:"Ahmed",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        name:"Ryuzaki",
+        photo:"http://images6.fanpop.com/image/photos/40000000/L-lawliet-death-note-40048716-1777-999.jpg",
         scores:[
-            5,
-            1,
-            4,
-            4,
-            5,
-            1,
-            2,
-            5,
-            4,
-            1
+            "5",
+            "1",
+            "4",
+            "4",
+            "5",
+            "1",
+            "2",
+            "5",
+            "4",
+            "1"
           ]
         
           
       },
       {
-        name:"Bob",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        name:"kakashi sensei",
+        photo:"https://media.comicbook.com/2017/12/kakashi-1067905-1280x0.jpeg",
         scores:[
-            3,
-            2,
-            5,
-            5,
-            5,
-            1,
-            3,
-            2,
-            1,
-            1
+            "4",
+            "1",
+            "4",
+            "2",
+            "3",
+            "1",
+            "2",
+            "3",
+            "3",
+            "1"
           ]
         
           
       },
       {
         name:"Sauske",
-        photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        photo:"https://www.anime-planet.com/images/characters/sasuke-uchiha-531.jpg",
         scores:[
-            1,
-            2,
-            5,
-            2,
-            5,
-            1,
-            3,
-            2,
-            1,
-            1
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "5",
+            "2",
+            "5",
+            "5",
+            "1"
           ]
         
           

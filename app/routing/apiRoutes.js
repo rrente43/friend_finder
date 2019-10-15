@@ -29,7 +29,7 @@ module.exports = function (app) {
 
             for(var j = 0; j < friendlist[i].scores[j]; j++){
 
-                totalDifference += Math.abs(parseInt(userScores[j])-parseInt(friendlist[i].scores[j]));
+                totalDifference += Math.abs(parseInt(userScores[j]) - parseInt(friendlist[i].scores[j]));
                 if(totalDifference <= match.friendDifference){
                     
                     match.name = friendlist[i].name;
