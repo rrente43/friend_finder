@@ -1,0 +1,26 @@
+{
+  "name": "friend_finder",
+  "version": "1.0.0",
+  "description": "Friend Finder is an app created to find acquaintances.\r It Works by answering the questions that will give you a score. The diffrence of your score will be compared to another user.\r A loop is created to go through users to find the one with a similar score to yours.\r After answering the survey, a modal appears with the person you matched.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrente43/friend_finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrente43/friend_finder/issues"
+  },
+  "homepage": "https://github.com/rrente43/friend_finder#readme"
+}
